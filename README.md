@@ -1,14 +1,15 @@
-🧮 NumPy Guide
+# 🧮 NumPy Guide
 📌 Introduction
 
 NumPy (Numerical Python) is a powerful Python library used for numerical computations. It provides support for arrays, matrices, and many mathematical functions.
 
-🚀 Features
+## 🚀 Features
 Fast and efficient multi-dimensional arrays
 Mathematical operations (linear algebra, statistics)
 Broadcasting support
 Integration with other libraries like Pandas, Matplotlib
-📦 Installation
+
+### 📦 Installation
 pip install numpy
 📥 Import NumPy
 import numpy as np
